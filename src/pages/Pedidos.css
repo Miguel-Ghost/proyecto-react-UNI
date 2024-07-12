@@ -1,0 +1,28 @@
+
+.pedidos-container {
+    padding: 20px;
+}
+
+.pedidos-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.pedidos-table th, .pedidos-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.pedidos-table th {
+    background-color: #f2f2f2;
+}
+
+.ver-detalles-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.ver-detalles-link:hover {
+    text-decoration: underline;
+}

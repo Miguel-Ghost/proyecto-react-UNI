@@ -1,0 +1,45 @@
+.inicio-gimnasio {
+    text-align: center;
+    padding: 20px;
+}
+
+.banner-container {
+    margin: 20px 0;
+}
+
+.banner-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.features {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+
+.feature {
+    width: 30%;
+}
+
+.feature img {
+    max-width: 100%;
+    height: auto;
+}
+
+.membresias {
+    margin-top: 40px;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cta-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 20px;
+}
